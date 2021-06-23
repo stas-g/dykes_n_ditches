@@ -16,3 +16,9 @@ Extra: integrate with an external LED screen to poutput readings insead of a ser
 https://create.arduino.cc/projecthub/Arnov_Sharma_makes/lcd-i2c-tutorial-664e5a
 
 Next: turbidity sensor.
+
+
+Notes: 4 wires sticking out of a sensor is the I2C interface "I squared C".
+
+
+https://wiki.dfrobot.com/Turbidity_sensor_SKU__SEN0189
